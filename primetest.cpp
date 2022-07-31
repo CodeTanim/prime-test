@@ -19,7 +19,6 @@ int main()
 {
 
  unsigned int num,d, i;
-string dick;
  while ( cin >> num) {   //while numbers are being inputted
 
 
